@@ -7,7 +7,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.nio.charset.StandardCharsets;
 
-public class DeepLTranslator implements Translator {
+public class DeepLTranslatorToEnglish implements Translator {
     private final String apiKey = "1b848aff-f6b1-4144-8da8-c4656fff0eec:fx";
 
 

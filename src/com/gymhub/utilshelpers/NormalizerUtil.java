@@ -1,4 +1,4 @@
-package com.gymhub.utils;
+package com.gymhub.utilshelpers;
 
 import java.text.Normalizer;
 
